@@ -1,0 +1,26 @@
+vTeam Members:
+•	Suman Khadayat
+•	Niraj Bhandari
+•	Jeevan Karki
+•	Austin Davis
+Instructor: NAWAJ CHOUDHARY
+
+Introduction
+Dietfy is a web-based diet tracking application that helps users monitor their daily food intake, calories, hydration, and health goals in one place.
+
+Objectives
+•	Allow users to log meals easily.
+•	Track calorie intake and nutrients.
+•	Monitor daily hydration.
+•	Record mood and overall well-being.
+•	Enable users to set and track personal health goals.
+•	Provide basic reports and progress summaries.
+
+Features
+•	Login/Signup
+•	Personal details(height, goals, age, weight)
+•	Personal Dashboard(Shows calories left today, nutrient breakdown (carbs, protein, fat)).
+•	Meal Logging and Recipe Suggestions
+•	Progress Tracking(Charts for weekly/monthly calorie intake and weight change)
+•	Reminders(Health Suggestions, reminders for drinking water)
+•	Adding AI Suggestions

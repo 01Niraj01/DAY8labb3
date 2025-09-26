@@ -1,6 +1,0 @@
-Week 1-2 →Project Setup
-Week 3 → Discussion of Required features
-Week 4-10→ Working on the backend and Fronted
-Week 11,12 → Testing and Finalizing the document
-Week 13 → Presentation
-....
